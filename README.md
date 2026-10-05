@@ -1,2 +1,5 @@
-# trt-concept
-Talent Resources Transformation (TRT): public concept site, HR to TR for human + AI talent
+# TRT: Talent Resources Transformation
+
+Public concept site for "HR becomes TR": one function that acquires and balances human and AI talent. Live at https://trt.roger.selfserved.ai
+
+Static HTML generated from a private source repo. This is a concept exploration, not a product or advice.
